@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LaalSMP.aternos.me:53814",
+    "ip": "LaalSMP.aternos.me",
     "port": 53814,
     "version": "",
     "try-creative": false
